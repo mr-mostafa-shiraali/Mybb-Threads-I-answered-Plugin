@@ -30,4 +30,4 @@ Two simple condition :
 * Ability to specify the number of rows per page
 * Ability to set an expiration time for the status per request
   
-   ## More details : [Threads I answered Plugin](https://community.mybb.com/thread-242600.html)
+## More details : [Threads I answered Plugin](https://community.mybb.com/thread-242600.html)
